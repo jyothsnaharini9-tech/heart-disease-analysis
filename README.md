@@ -251,8 +251,8 @@ Possible future enhancements include:
 
 # 👥 Team Members
 
-- Likitha Satti
 - Kovvuri Jyothsna Harini
+- Likitha Satti
 - Yaswanth Mutyala  (**Team Lead**)
 - Manukonda Nikhitha Florence
 - Varshini Siddireddy
